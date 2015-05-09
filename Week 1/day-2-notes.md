@@ -1,1 +1,6 @@
-Introduce classes, a little inheritance
+Introduction to classes
+
+* classes
+* object literals
+* instance varibles
+* inheritance

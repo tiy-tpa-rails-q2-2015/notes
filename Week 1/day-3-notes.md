@@ -1,4 +1,4 @@
-More on classes.
+More on classes, introduce testing.
 
 `require`
 MiniTest
