@@ -52,6 +52,8 @@ Here's the only image asset you need for your page:
 
 ![](https://dl.dropboxusercontent.com/u/4024808/grayarrow.gif)
 
+`https://dl.dropboxusercontent.com/u/4024808/grayarrow.gif`
+
 ### Bonus
 
 Build a webrick app (like what we've been doing in class) loading each article
