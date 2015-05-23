@@ -9,8 +9,8 @@ After completing this assignment, you should:
 * Understand using methods from `Enumerable` like: `map`, `select`, `reject`, `max_by` and `sort`.
 * Understand using related methods on `Array` like: `uniq` and `each`.
 * Understand using useful methods on `String` like: `split`, `lines` and `gsub`.
-* Be able to use existing tests to very your code is working correctly.
-* be able to effectively use tools like `observr` to automatically run your tests.
+* Be able to use existing tests to verify your code is working correctly.
+* Be able to effectively use tools like `observr` to automatically run your tests.
 
 ### Details
 

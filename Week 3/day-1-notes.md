@@ -1,0 +1,1 @@
+Guest lecture with Adam. He talked about CSS box model. Really he talked more about layout, and less about how the box model itself works. He really blew the students minds by using SASS and Jade in his demo. We hadn't talked about those yet, so we spent the rest of the afternoon getting into them. We adapted them into the classes Eat This! project.
