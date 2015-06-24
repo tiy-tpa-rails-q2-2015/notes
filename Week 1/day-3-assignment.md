@@ -9,7 +9,7 @@
       ```
 - [ ] Look at the `README` file.
 - [ ] Run `rake` and begin your journey.
-- [ ] **Optional**: Install Watchr to help automate the process. There are details about this in the `README`.
+- [ ] **Optional**: Install Observr to help automate the process. There are details about this in the `README`.
 - **Bonus**
   - [ ] Complete Ruby Koans in their entirety.
 - [ ] Close this issue to notify me for review. Be sure to include a link to your repository.
